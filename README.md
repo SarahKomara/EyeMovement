@@ -1,6 +1,8 @@
 # EyeMovement
 EyeMovement
 
+<img src= "EyeMovement.png" width='250'/>
+
 EyeMovement Project: In this exercise I worked with CSS, JavaScript, and HTML to create an animation of moving or floating eyes, that follow movement based on the user's mouse. 
 
 How to Run: Simply move your mouse around the screen and the "pupils" of the eyes will follow that mouse-movement. 
